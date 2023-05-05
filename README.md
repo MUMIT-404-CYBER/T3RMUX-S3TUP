@@ -14,7 +14,7 @@
 
 * `cd T3RMUX-S3TUP`
 
-* `python S3TUP.py`
+* `python Setup.py`
 
 
 ___This Tools is Free Enjoy Dear User.___</br>
@@ -22,5 +22,5 @@ ___This Tools is Free Enjoy Dear User.___</br>
 ## SCREENSHOT :
 <br>
 <p align="center">
-<img src="__scr__/set.jpg"/>
+<img src="__scr__/st.jpg"/>
 </p>
